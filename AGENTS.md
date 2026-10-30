@@ -4,3 +4,10 @@
 途中経過をgitでコミットし、定期的にCLAUDE_GIT_PAT_SKILLを使い、https://github.com/ShalomLLM/SKILLS.gitにコミットしなさい。
 
 DEISGN.mdに設計が書いてあります。
+
+テストの方法：
+サブエージェントエージェントを作成して、そのエージェントがskills.mdを読み込んでタスクが達成できるかresult.mdに作成させ、成功したと報告を受ける。
+
+達成の条件：
+skills.mdが全フォルダーにある。
+テストが全スキルで完了する。
