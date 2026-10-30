@@ -1,0 +1,6 @@
+このプロジェクト内のSKILLSの中のフォルダーのすべてのスキルを実際に使用可能にする手順などを調べて実行して、その結果をSKILLとして使えるようにmdで書きなさい。
+ステップバイステップで進められるようにmdで書きなさい。
+
+途中経過をgitでコミットし、定期的にCLAUDE_GIT_PAT_SKILLを使い、https://github.com/ShalomLLM/SKILLS.gitにコミットしなさい。
+
+DEISGN.mdに設計が書いてあります。
